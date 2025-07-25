@@ -96,7 +96,7 @@ This repository includes various files that enhance your experience with Claude 
 
 Enhance your Claude Code experience with these powerful tools and integrations:
 
-- [**CCProxy**](https://github.com/orchestre-dev/ccproxy): Use any AI model with Claude Code - OpenAI, Gemini, Groq, OpenRouter and local models via Ollama. Universal API translation proxy with intelligent routing and streaming support.
+- [**CCProxy**](https://github.com/orchestre-dev/ccproxy): Use any AI model with Claude Code - OpenAI, Gemini, Groq, OpenRouter and local models via Ollama. Universal API translation proxy with intelligent routing and streaming support. by [praneybehl](https://github.com/praneybehl)
 
 ## Workflows
 
