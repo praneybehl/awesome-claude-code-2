@@ -14,6 +14,7 @@
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Commands](#commands)
 - [Files](#files)
+- [Tools and Integrations](#tools-and-integrations)
 - [Workflows](#workflows)
 - [Contributing](#contributing)
 - [License](#license)
@@ -90,6 +91,12 @@ This repository includes various files that enhance your experience with Claude 
 
 - **config.yaml**: Basic configuration settings for Claude.
 - **sample_code.py**: A Python script demonstrating how to use Claude for generating code.
+
+## Tools and Integrations
+
+Enhance your Claude Code experience with these powerful tools and integrations:
+
+- [**CCProxy**](https://github.com/orchestre-dev/ccproxy): Use any AI model with Claude Code - OpenAI, Gemini, Groq, OpenRouter and local models via Ollama. Universal API translation proxy with intelligent routing and streaming support.
 
 ## Workflows
 
